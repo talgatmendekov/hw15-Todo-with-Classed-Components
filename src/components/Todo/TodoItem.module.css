@@ -1,0 +1,20 @@
+.todo {
+    display: flex;
+    justify-content: space-between;
+}
+
+.todo button {
+    width: 100px;
+    height: 30px;
+    margin-bottom: 5px;
+}
+
+.todo input {
+    margin-left: 10px;
+}
+
+.done{
+    text-decoration: line-through;
+    text-decoration-color: red;
+    
+}
